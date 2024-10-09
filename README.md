@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VishwaksenaY
+- 👀 I’m interested in: programming
+- 🌱 I’m currently learning: programming
+- 💞️ I’m looking to collaborate on: a new project
+- 📫 How to reach me: through github
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to code
